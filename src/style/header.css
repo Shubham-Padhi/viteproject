@@ -1,0 +1,13 @@
+.heading{
+   padding: 50px;
+   color: rgb(53, 208, 208);
+   text-decoration: dashed;
+   width: auto;
+   background-color: rgb(19, 49, 39);
+}
+.button1{
+    background-color: rgb(96, 200, 200);
+    width:30%;
+    height: 30%;
+    color: aqua;
+}
